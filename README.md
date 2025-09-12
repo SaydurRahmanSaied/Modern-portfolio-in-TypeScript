@@ -7,7 +7,7 @@
 - 📦 Dynamic project showcase
 - 🔎 Search engine optimized
 
-<hr>
+
 <h1>🚀 Tech Stack</h1>
 
 - **Framework**: Next.js 14+
